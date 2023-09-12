@@ -1,0 +1,64 @@
+*{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(../assets/food-background.jpg);
+    background-size: cover;
+}
+
+h1{
+    color: #1441dc;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+h3{
+    background-color: rgb(255, 195, 0);
+    color: #dc2314;    
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.lista_desord{
+    background-color: #dca814;
+    border: 2px solid red;
+    display: inline-block;    
+}
+
+.elementos{
+    padding: 6px;
+    display: inline;
+    margin: 6px;
+}
+
+#container0{
+    text-align: center;
+} 
+
+img{
+    height: auto;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+.carnita{
+    display: block;
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.boton{
+    display: block;
+    background-color: #ec993b;
+    padding: 10px 5px;    
+}
+
+#id{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
